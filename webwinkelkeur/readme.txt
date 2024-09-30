@@ -78,6 +78,9 @@ add_filter('webwinkelkeur_request_invitation', function ($should_invite, WC_Orde
 
 === Changelog ===
 
+= 3.37 - 2024-09-26 =
+* Hide popup after 10 minutes.
+
 = 3.36 - 2024-08-26 =
 * Bump **Tested up to** to WordPress 6.6.1.
 

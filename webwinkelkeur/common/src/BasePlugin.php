@@ -184,7 +184,7 @@ abstract class BasePlugin {
     }
 
     private function getVersion(): string {
-        return '3.36';
+        return '3.37';
     }
 
     private function getDefaultConfig(): array {
