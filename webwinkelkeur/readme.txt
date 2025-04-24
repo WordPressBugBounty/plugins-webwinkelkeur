@@ -78,6 +78,9 @@ add_filter('webwinkelkeur_request_invitation', function ($should_invite, WC_Orde
 
 === Changelog ===
 
+= 3.38 - 2025-04-24 =
+* Added: Support for retrieving order language data from different 3rd party plugins
+
 = 3.37 - 2024-09-26 =
 * Hide popup after 10 minutes.
 
