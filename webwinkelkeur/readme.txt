@@ -3,7 +3,7 @@ Contributors: apeschar
 Tags: webwinkelkeur, sidebar, review, reviews, woocommerce, webwinkel keurmerk, webshop keurmerk, keurmerk
 Requires at least: 4.4
 Requires PHP: 7.0
-Tested up to: 6.8.2
+Tested up to: 7.0
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -77,6 +77,9 @@ add_filter('webwinkelkeur_request_invitation', function ($should_invite, WC_Orde
 5. WebwinkelKuer member page
 
 === Changelog ===
+
+= 3.40 - 2026-07-27 =
+* Bump **Tested up to** to WordPress 7.0.
 
 = 3.39 - 2025-09-05 =
 * Bump **Tested up to** to WordPress 6.8.2.
