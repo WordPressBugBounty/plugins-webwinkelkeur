@@ -8,302 +8,299 @@ msgstr ""
 "Project-Id-Version: webwinkelkeur 3.43\n"
 "Report-Msgid-Bugs-To: info@kiboit.com\n"
 "POT-Creation-Date: 2026-08-21 12:42+0000\n"
-"PO-Revision-Date: 2017-05-30 15:45+0200\n"
+"PO-Revision-Date: 2026-08-21 10:54+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: es_ES\n"
+"Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.12\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. common/src/Admin.php:31
 #: common/src/Admin.php:31
 msgid "Settings"
-msgstr ""
+msgstr "Einstellungen"
 
 #. common/src/Admin.php:43
 #: common/src/Admin.php:43
 msgid "Your shop ID is required."
-msgstr "Su ID de tienda es obligatorio."
+msgstr "Ihre Shop-ID ist erforderlich."
 
 #. common/src/Admin.php:46
 #: common/src/Admin.php:46
 msgid "Your shop ID can only contain digits."
-msgstr "Su ID de tienda solo puede contener números."
+msgstr "Ihre Shop-ID darf nur Ziffern enthalten."
 
 #. common/src/Admin.php:52
 #: common/src/Admin.php:52
 msgid "This is not a valid API key."
-msgstr "Esta no es una clave API válida."
+msgstr "Dies ist kein gültiger API-Schlüssel."
 
 #. common/src/Admin.php:90
 #: common/src/Admin.php:90
 msgid "To send invitations, your API key is required."
-msgstr "Para enviar invitaciones es obligatoria su clave API."
+msgstr "Um Einladungen zu versenden, ist Ihr API-Schlüssel erforderlich."
 
 #. common/src/Admin.php:151
 #: common/src/Admin.php:151
 #, php-format
 msgid "An error occurred while requesting the %s invitation:"
-msgstr "Ha habido un error al enviar la invitación de %s."
+msgstr "Beim Anfordern der %s-Einladung ist ein Fehler aufgetreten:"
 
 #. common/src/BasePlugin.php:189
 #: common/src/BasePlugin.php:189
 msgid "You are not allowed to perform this action."
-msgstr "No tiene permiso para realizar esta acción."
+msgstr "Sie sind nicht berechtigt, diese Aktion auszuführen."
 
 #. common/src/PhpCompatibilityCheck.php:13
 #: common/src/PhpCompatibilityCheck.php:13
 #, php-format
 msgid "The %s plugin is not compatible with PHP %s. Please upgrade to PHP 7.0.0 or higher."
-msgstr "El complemento %s no es compatible con PHP %s. Actualiza a PHP 7.0.0 o superior."
+msgstr "Das Plugin %s ist nicht mit PHP %s kompatibel. Bitte aktualisieren Sie auf PHP 7.0.0 oder höher."
 
 #. common/src/WooCommerce.php:57
 #: common/src/WooCommerce.php:57
 msgid "Automatic product review sync did not run in the last 24 hours. Make sure that you have cron jobs configured, or sync manually."
-msgstr "La sincronización automática de reseñas de productos no se ha ejecutado en las últimas 24 horas.Asegúrate de tener configurados los trabajos cron o sincronícelos manualmente."
+msgstr "Die automatische Synchronisierung der Produktbewertungen wurde in den letzten 24 Stunden nicht ausgeführt. Stellen Sie sicher, dass Cronjobs eingerichtet sind, oder synchronisieren Sie manuell."
 
 #. common/src/WooCommerce.php:199
 #: common/src/WooCommerce.php:199
 msgid "Invite was not send as customer did not consent."
-msgstr "La invitación no se envió porque el cliente no dio su consentimiento."
+msgstr "Die Einladung wurde nicht versendet, da der Kunde nicht zugestimmt hat."
 
 #. common/src/WooCommerce.php:207
 #: common/src/WooCommerce.php:207
-#, fuzzy, php-format
+#, php-format
 msgid "The %s invitation could not be sent. %s"
-msgstr "La invitación de %s no ha podido ser enviada."
+msgstr "Die %s-Einladung konnte nicht versendet werden. %s"
 
 #. common/src/WooCommerce.php:221
 #: common/src/WooCommerce.php:221
 #, php-format
 msgid "The %s invitation could not be sent."
-msgstr "La invitación de %s no ha podido ser enviada."
+msgstr "Die %s-Einladung konnte nicht versendet werden."
 
 #. common/src/WooCommerce.php:231
 #: common/src/WooCommerce.php:231
 #, php-format
 msgid "An invitation was sent to %s dashboard."
-msgstr "Se envió una invitación al panel de control de %s."
+msgstr "Eine Einladung wurde an das %s-Dashboard gesendet."
 
 #. common/src/WooCommerce.php:256
 #: common/src/WooCommerce.php:256
 #, php-format
 msgid "Add the %s for this product"
-msgstr "Añade el %s para este producto"
+msgstr "%s für dieses Produkt hinzufügen"
 
 #. common/src/WooCommerce.php:712
 #: common/src/WooCommerce.php:712
 msgid "Not registered."
-msgstr "No registrado."
+msgstr "Nicht registriert."
 
 #. common/templates/options.php:11
 #: common/templates/options.php:11
 msgid "Your changes have been saved."
-msgstr "Sus cambios han sido guardados."
+msgstr "Ihre Änderungen wurden gespeichert."
 
 #. common/templates/options.php:19
 #: common/templates/options.php:19
 msgid "Shop ID"
-msgstr "ID de la tienda online"
+msgstr "Shop-ID"
 
 #. common/templates/options.php:23
 #: common/templates/options.php:23
 msgid "API key"
-msgstr "Clave API"
+msgstr "API-Schlüssel"
 
 #. common/templates/options.php:27
 #: common/templates/options.php:27
 #, php-format
 msgid "You'll find this information after logging in on %s."
-msgstr "Estos datos los encontrará al ingresar en %s."
+msgstr "Diese Informationen finden Sie, nachdem Sie sich bei %s angemeldet haben."
 
 #. common/templates/options.php:38
 #: common/templates/options.php:38
 msgid "JavaScript integration"
-msgstr "Integración JavaScript"
+msgstr "JavaScript-Integration"
 
 #. common/templates/options.php:43
 #: common/templates/options.php:43
 #, php-format
 msgid "Yes, add the %s JavaScript to my website."
-msgstr "Sí, añadir el JavaScript de %s a mi sitio web."
+msgstr "Ja, das %s-JavaScript zu meiner Website hinzufügen."
 
 #. common/templates/options.php:47
 #: common/templates/options.php:47
 #, php-format
 msgid "Use the JavaScript integration to add the sidebar and the tooltip to your website.<br>All settings for the sidebar and tooltip are located on the %s."
-msgstr "Utiliza la integración de JavaScript para añadir la barra lateral y la información de herramientas a su sitio web.<br>Todas las configuraciones para la barra lateral y la información de herramientas se encuentran en %s."
+msgstr "Verwenden Sie die JavaScript-Integration, um die Sidebar und den Tooltip zu Ihrer Website hinzuzufügen.<br>Alle Einstellungen für die Sidebar und den Tooltip finden Sie im %s."
 
 #. common/templates/options.php:51
 #: common/templates/options.php:51
 #, php-format
 msgid "%s Dashboard"
-msgstr "Panel de control %s"
+msgstr "%s-Dashboard"
 
 #. common/templates/options.php:58
 #: common/templates/options.php:58
 msgid "Invitations"
-msgstr "Enviar invitaciones"
+msgstr "Einladungen"
 
 #. common/templates/options.php:63
 #: common/templates/options.php:63
-#, fuzzy
 msgid "Yes, email after every order. (default)"
-msgstr "Sí, correo electrónico después de cada pedido."
+msgstr "Ja, E-Mail nach jeder Bestellung. (Standard)"
 
 #. common/templates/options.php:67
 #: common/templates/options.php:67
-#, fuzzy
 msgid "Yes, email after a customer's first order."
-msgstr "Sí, correo electrónico tras el primer pedido de un cliente."
+msgstr "Ja, E-Mail nach der ersten Bestellung eines Kunden."
 
 #. common/templates/options.php:71
 #: common/templates/options.php:71
 msgid "Yes, pop-up after purchase at \"thank you\" page. Privacy first review option: order data will only be shared after permission from the customer."
-msgstr "Sí, ventana emergente después de la compra en la página de agradecimiento. Los datos del pedido sólo se comparten con el consentimiento del cliente."
+msgstr "Ja, Pop-up nach dem Kauf auf der \"Danke\"-Seite. Datenschutzfreundliche Bewertungsoption: Bestelldaten werden erst nach Zustimmung des Kunden weitergegeben."
 
 #. common/templates/options.php:75
 #: common/templates/options.php:75
 msgid "No, don't send invitations."
-msgstr "No, no enviar invitaciones."
+msgstr "Nein, keine Einladungen versenden."
 
 #. common/templates/options.php:82
 #: common/templates/options.php:82
 msgid "Order status for invitations"
-msgstr "Estado del pedido de las invitaciones"
+msgstr "Bestellstatus für Einladungen"
 
 #. common/templates/options.php:86
 #: common/templates/options.php:86
 msgid "Install and activate WooCommerce to use this functionality."
-msgstr "Instale y active WooCommerce para poder utilizar esta función."
+msgstr "Installieren und aktivieren Sie WooCommerce, um diese Funktion zu nutzen."
 
 #. common/templates/options.php:99
 #: common/templates/options.php:99
 msgid "The invitation is only sent when the order has the checked status."
-msgstr "La invitación sólo se envía cuando el pedido tiene el estado verificado."
+msgstr "Die Einladung wird nur versendet, wenn die Bestellung den ausgewählten Status hat."
 
 #. common/templates/options.php:113
 #: common/templates/options.php:113
 #, php-format
 msgid "Do not send my order information to %s (checking this option disables product reviews!)."
-msgstr "No enviar la información de mi pedido a %s (¡marcar esta opción desactiva valoraciones de productos!)."
+msgstr "Meine Bestellinformationen nicht an %s senden (diese Option deaktiviert Produktbewertungen!)."
 
 #. common/templates/options.php:118
 #: common/templates/options.php:118
 #, php-format
 msgid "Please note: not all %s functionality will be available if you check this option!"
-msgstr "Ten en cuenta: ¡no toda la funcionalidad de %s estará disponible si marcas estoopción!"
+msgstr "Bitte beachten Sie: Nicht alle Funktionen von %s stehen zur Verfügung, wenn Sie diese Option aktivieren!"
 
 #. common/templates/options.php:127
 #: common/templates/options.php:127
 msgid "Invitation delay"
-msgstr "Plazo para la invitación"
+msgstr "Verzögerung der Einladung"
 
 #. common/templates/options.php:130
 #: common/templates/options.php:130
 msgid "The invitation will be send after the specified amount of days since the order has been shipped."
-msgstr "La invitación se envía una vez hayan pasado el número de días indicados después de enviar el pedido."
+msgstr "Die Einladung wird nach der angegebenen Anzahl von Tagen ab dem Versand der Bestellung verschickt."
 
 #. common/templates/options.php:135
 #: common/templates/options.php:135
 msgid "Product reviews"
-msgstr "Reseñas de productos"
+msgstr "Produktbewertungen"
 
 #. common/templates/options.php:143
 #: common/templates/options.php:143
 msgid "Import product reviews to WooCommerce."
-msgstr "Importar reseñas de productos a WooCommerce."
+msgstr "Produktbewertungen in WooCommerce importieren."
 
 #. common/templates/options.php:147
 #: common/templates/options.php:147
 #, php-format
 msgid "Automatically display product reviews collected using %s on your WooCommerce shop."
-msgstr "Muestra automáticamente reseñas de productos recopiladas utilizando %s en tu tienda WooCommerce."
+msgstr "Mit %s gesammelte Produktbewertungen automatisch in Ihrem WooCommerce-Shop anzeigen."
 
 #. common/templates/options.php:156
 #: common/templates/options.php:156
 msgid "Sync to Multisite"
-msgstr "Sincronizar con multisitio"
+msgstr "Mit Multisite synchronisieren"
 
 #. common/templates/options.php:160
 #: common/templates/options.php:160
 msgid "Enable sync product reviews to multisite setup. Product will be matched by ID and SKU."
-msgstr "Habilita la sincronización de reseñas de productos con la configuración de varios sitios.El producto coincidirá por ID y SKU."
+msgstr "Synchronisierung der Produktbewertungen mit einer Multisite-Installation aktivieren. Produkte werden anhand von ID und SKU zugeordnet."
 
 #. common/templates/options.php:170
 #: common/templates/options.php:170
 msgid "Sync manually"
-msgstr "Sincronizar manualmente"
+msgstr "Manuell synchronisieren"
 
 #. common/templates/options.php:175
 #: common/templates/options.php:175
 msgid "Sync all reviews manually"
-msgstr "Sincronizar todas las reseñas manualmente"
+msgstr "Alle Bewertungen manuell synchronisieren"
 
 #. common/templates/options.php:179
 #: common/templates/options.php:179
 msgid "Last sync"
-msgstr "Última sincronización"
+msgstr "Letzte Synchronisierung"
 
 #. common/templates/options.php:181
 #: common/templates/options.php:181
 msgid "Next sync"
-msgstr "Próxima sincronización"
+msgstr "Nächste Synchronisierung"
 
 #. common/templates/options.php:193
 #: common/templates/options.php:193
 msgid "Automatic detection"
-msgstr "Detección automática"
+msgstr "Automatische Erkennung"
 
 #. common/templates/options.php:196
 #: common/templates/options.php:196
 msgid "Suggested keys"
-msgstr "Claves sugeridas"
+msgstr "Vorgeschlagene Schlüssel"
 
 #. common/templates/options.php:198
 #: common/templates/options.php:198
 msgid "Other keys"
-msgstr "Otra clave"
+msgstr "Andere Schlüssel"
 
 #. common/templates/options.php:205
 #: common/templates/options.php:205
 msgid "Tell this plugin where to find the product <strong>GTIN</strong> by selecting a custom key. For example: if you use a field called <strong>_productcode</strong> to store the <strong>GTIN</strong>, you should select  <strong>_product_code</strong>. Our plugin also supports certain 3rd party plugins. If we found a supported plugin, this box is set to <strong>Automatic detection</strong>, you can still choose to select another key."
-msgstr "Dile a este complemento dónde encontrar el </strong>GTIN</strong> del producto seleccionando una clave personalizada. Por ejemplo: si utilizas un campo llamado <strong>_productcode</strong> para almacenar el <strong>GTIN</strong>, deberás seleccionar <strong>_product_code</strong>. Nuestro complemento también admite ciertos complementos de terceros. Si encontramos un complemento compatible, este cuadro está configurado en <strong>Detección automática</strong>, aún puedes elegir seleccionar otra  llave."
+msgstr "Teilen Sie diesem Plugin mit, wo es die <strong>GTIN</strong> des Produkts findet, indem Sie einen eigenen Schlüssel auswählen. Beispiel: Wenn Sie ein Feld namens <strong>_productcode</strong> zum Speichern der <strong>GTIN</strong> verwenden, sollten Sie <strong>_product_code</strong> auswählen. Unser Plugin unterstützt außerdem bestimmte Plugins von Drittanbietern. Wenn wir ein unterstütztes Plugin gefunden haben, ist dieses Feld auf <strong>Automatische Erkennung</strong> eingestellt; Sie können dennoch einen anderen Schlüssel auswählen."
 
 #. common/templates/options.php:211
 #: common/templates/options.php:211
 msgid "Add rich snippet"
-msgstr "Estrellas Rich Snippet"
+msgstr "Rich Snippet hinzufügen"
 
 #. common/templates/options.php:215
 #: common/templates/options.php:215
 msgid "Yes, add a rich snippet to the footer of my website."
-msgstr "Sí, añade un Rich Snippet al footer."
+msgstr "Ja, ein Rich Snippet im Footer meiner Website hinzufügen."
 
 #. common/templates/options.php:218
 #: common/templates/options.php:218
 msgid "This allows Google to show your rating in the search results. Use at your own risk."
-msgstr "Así Google podrá mostrar tu puntuación en los resultados de búsqueda. Uso bajo su propia responsabilidad."
+msgstr "Dadurch kann Google Ihre Bewertung in den Suchergebnissen anzeigen. Die Verwendung erfolgt auf eigene Gefahr."
 
 #. common/templates/options.php:219
 #: common/templates/options.php:219
 msgid "More information."
-msgstr "Más información."
+msgstr "Weitere Informationen."
 
 #. common/templates/options.php:266
 #: common/templates/options.php:266
 msgid "Syncing product reviews..."
-msgstr "Sincronizando reseñas de productos..."
+msgstr "Produktbewertungen werden synchronisiert ..."
 
 #. src/Plugin.php:27
 #: src/Plugin.php:27
 msgid "New: WebwinkelKeur Product Reviews for WooCommerce"
-msgstr "Nuevo: Reseñas de productos WebwinkelKeur para WooCommerce"
+msgstr "Neu: WebwinkelKeur Produktbewertungen für WooCommerce"
 
 #. src/Plugin.php:29
 #: src/Plugin.php:29
 msgid "Read more"
-msgstr "Leer más"
+msgstr "Mehr erfahren"
